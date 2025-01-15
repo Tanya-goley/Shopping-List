@@ -4,3 +4,7 @@ Milk
 Egg
 Leafy veggies
 Hummus
+Carrot
+Banana
+Apple
+Curd
